@@ -1,0 +1,2 @@
+wav1.wav|Bonjour, c'est Barbara d'Affinicia et je vous appelle par rapport à vos abonnements internet.
+wav2.wav|Je voulais discuter d'une offre spéciale pour votre box internet.
