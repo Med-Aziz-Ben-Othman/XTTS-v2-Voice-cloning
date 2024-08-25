@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-def plot_metrics(process_times, real_time_factors, output_dir="viz_output"):
+def plot_metrics(process_times, real_time_factors, output_dir="voice cloning/viz_output"):
     # Create the output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 

@@ -1,0 +1,5 @@
+wav-fr1.wav|Oui, bien sur ! Je serais ravi de vous aider avec vos questions. Voici cinq raiponses que je pourrais donner en tant qu'assistant amical :
+wav-fr2.wav|1. "Ahah, je comprends mieux maintenant ! Merci de me poser cette question, je suis heureux de pouvoir vous aider à  clarifier les choses."
+wav-fr3.wav|(Raiponse à  une question qui demande une explication supplaimentaire)
+wav-fr4.wav|2. "Oui, c'est tout à  fait possible ! Je peux vous donner quelques conseils pour raialiser votre projet. Qu'est-ce que vous avez en tàªte ?"
+wav-fr5.wav|(Raiponse à  une question qui demande des conseils ou des suggestions)

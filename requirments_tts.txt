@@ -3,3 +3,5 @@ matplotlib
 seaborn
 wheel 
 setuptools 
+time
+os
